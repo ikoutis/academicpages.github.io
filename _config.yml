@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ioannis Koutis"
   avatar           : "profile.png"
-  bio              : "Associate Professor"
-  location         : "Location"
+  bio              : "Associate Professor\n Associate Chair of Graduate Studies"
+  location         : "Earth"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ONXC8_gAAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
