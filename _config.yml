@@ -83,7 +83,7 @@ author:
   name             : "Ioannis Koutis"
   avatar           : "profile.png"
   bio              : "Associate Professor, CS, <a style='color: black;'  href='http://www.njit.edu'>NJIT"
-  location         : "Earth"
+  #location         : "Earth"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ONXC8_gAAAAJ&hl=en"
