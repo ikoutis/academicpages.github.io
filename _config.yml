@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Ioannis Koutis"
   avatar           : "profile.png"
-  bio              : "Associate Professor, [I'm an inline-style link](https://www.google.com)"
+  bio              : "Associate Professor"
+  bio              : "Associate Professor-2"
   location         : "Earth"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
