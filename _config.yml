@@ -11,7 +11,7 @@ title                    : "Ioannis Koutis"
 title_separator          : "-"
 name                     : &name "Yiannis Koutis"
 description              : &Associate Professor"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ikoutis.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,7 +83,6 @@ author:
   name             : "Ioannis Koutis"
   avatar           : "profile.png"
   bio              : "Associate Professor"
-  bio              : "Associate Professor-2"
   location         : "Earth"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -104,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-1535-3397"
+  orcid            : #"https://orcid.org/0000-0003-1535-3397"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
