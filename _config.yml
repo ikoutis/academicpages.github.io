@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ioannis Koutis"
   avatar           : "profile.png"
-  bio              : "Associate Professor"
+  bio              : "Associate Professor <a style='color: black;' href='http://bids.berkeley.edu'>Berkeley Institute for Data Science"
   location         : "Earth"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
